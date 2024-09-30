@@ -14,6 +14,8 @@ function App() {
       <Tours />
       <About />
       <Footer />
+      <Footer />
+      <Footer />
     </>
   );
 }
